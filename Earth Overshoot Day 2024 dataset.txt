@@ -1,0 +1,29 @@
+Dataset from the Global Footprint Network
+Country Overshoot Day 2024
+
+https://overshoot.footprintnetwork.org/newsroom/country-overshoot-days/
+
+-----
+
+Country Overshoot Day Calendar & Calculations
+ 
+
+A country’s overshoot day is the date on which Earth Overshoot Day would fall if all of humanity consumed like the people in that country.
+
+Country overshoot days are published on January 1st of each year, using the latest year of the most recent National Footprint and Biocapacity Accounts edition. Therefore, the 2024 country overshoot days are based on the 2023 edition.
+
+The 2023 edition provides results from 1961 to 2022. Due to varying time lags in data reporting from data input sources, results from 2020 to 2022 are based on a mixture of actual data and preliminary estimates. Like with preliminary estimates for GDP, preliminary estimates are not final and less robust than the estimates up to 2020, which are based on fully reported data sets. The details of the 2023 National Footprint and Biocapacity Accounts, including its most recent improvements, are described in the release notes from York University’s Ecological Footprint Initiative, which produces the accounts for FoDaFo.
+
+Let’s take the Swiss Overshoot Day as an example. Its 2024 Overshoot Day is based on the latest available results from the 2023 edition of the National Footprint and Biocapacity Accounts. Given that the latest data point is for 2022, this would mean that the Swiss Overshoot Day 2024 really represents results for the year 2022:
+
+The Ecological Footprint of Switzerland was 3.74 global hectares (gha) per person in 2022.
+Global biocapacity was 1.51 gha per person in 2022.
+Therefore in 2022, it took (3.74/ 1.51) = 2.5 Earths to support humanity if everyone on the planet lived like people in Switzerland.
+
+Given that 2024 is a leap year, we can determine Swiss Overshoot Day using the equation 366 [days in 2024] * (1.51/3.74) = 148 [days]. In other words, after 148 days, the annual regenerative resource budget for the year would have been used up entirely. The 148th  day of 2024 is May 27th.
+
+Not all countries have an overshoot day, though. If a country’s Ecological Footprint per person is smaller than global biocapacity per person (1.5 gha), then the world would not use up the entire regenerative resource budget for the year within a year, if all humanity lived like them. These countries therefore do not have an overshoot day and are listed as “none” in the data tables, or are excluded as in the table below. In leap years, as is one this year, we calculate the date based on a 366 day-long year, rather than the usual 365.
+
+You can also download the public data set with all the country results, including the dates of the Country Overshoot Days and the Country Ecological Deficit Days from here.
+
+
